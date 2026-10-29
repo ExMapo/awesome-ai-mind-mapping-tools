@@ -49,6 +49,7 @@ These tools support **AI-powered idea generation, summarization, or automation**
 - [NoteGPT](https://notegpt.io/) - AI summarization and mapping features
 - [Monica](https://monica.im/) - AI assistant with visual idea support
 - [Mermaid Chart](https://www.mermaidchart.com/) - AI diagram and structured visual generation
+- [Mind Elixir](https://app.mind-elixir.com/) - AI-assisted mind mapping web app with AI content generation, outline mode, tags and MCP support
 
 ---
 
