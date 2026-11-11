@@ -48,6 +48,7 @@ These tools support **AI-powered idea generation, summarization, or automation**
 - [NodeLand](https://nodeland.io/) - AI-based node and idea mapping
 - [NoteGPT](https://notegpt.io/) - AI summarization and mapping features
 - [Monica](https://monica.im/) - AI assistant with visual idea support
+- [Novastart](https://novastart.com/) - Infinite canvas workspace for apps, shared canvases, and AI agents (freemium; not a dedicated mind-map generator)
 - [Mermaid Chart](https://www.mermaidchart.com/) - AI diagram and structured visual generation
 
 ---
